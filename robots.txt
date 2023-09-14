@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://fphng.github.io/fphng.github.io/sitemap.xml
+Sitemap: https://fphng.github.io/sitemap.xml
